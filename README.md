@@ -14,7 +14,7 @@ After that, the task progress will be displayed in your statusline (lualine).
 
 # Usage
 
-Write your tasks using checkboxes in a markdown-style list.
+Write your tasks using checkboxes in a markdown-style list.  
 Both forms with and without spaces are supported.
 
 ```
