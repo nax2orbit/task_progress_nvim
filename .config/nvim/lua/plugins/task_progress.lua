@@ -4,7 +4,6 @@ return {
     "nvim-lualine/lualine.nvim",
     optional = true,
     opts = function(_, opts)
-      -- タスク進捗を計算する関数
       local function task_progress()
         local lines = vim.api.nvim_buf_get_lines(0, 0, -1, false)
         local total, done = 0, 0
