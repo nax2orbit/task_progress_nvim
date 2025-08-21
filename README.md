@@ -1,3 +1,9 @@
+
+# Screenshot
+
+<img width="960" height="473" alt="Screenshot 2025-08-20 at 21 43 47" src="https://github.com/user-attachments/assets/a4a9222e-a943-44e5-911c-97e8a56f0897" />
+
+
 # Installation
 
 This Plugin was created in an environment using LazyVim.
@@ -30,7 +36,4 @@ The statusline will show the progress, for example:
 ✔ 2/4 (50%)
 ```
 
-# Screenshot
-
-<img width="960" height="473" alt="Screenshot 2025-08-20 at 21 43 47" src="https://github.com/user-attachments/assets/a4a9222e-a943-44e5-911c-97e8a56f0897" />
 
